@@ -23,3 +23,6 @@ I'm on a mission to transition from IT Support to **Full-Stack Development**, le
 # 📞 Let's Connect!
 🔗 [LinkedIn](https://www.linkedin.com/in/rakeshsagarsandola/) | 📧 rakeshsagartfi21@gmail.com<br/>
 💡 "Turning ideas into reality, one line of code at a time!" 🚀
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=RakSagaTech&theme=radical)
+
